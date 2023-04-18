@@ -1,4 +1,4 @@
-<h1>Abstract</h1>
+<h1 align="center">Abstract</h1>
 <p align="center"> 
 With tourism being one of the largest industries in the world, a lot of curiosity arouses
 about exploring new locations. Travelers who enjoy exploring different cultures and cities have a hard time finding the appropriate information tailored to them before they set out on an expedition.A growing number of tourism mobile applications incorporate recommender systems. As a result
